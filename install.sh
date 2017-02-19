@@ -6,3 +6,6 @@ sudo apt-get -y install krita
 sudo apt-get -y install mypaint
 sudo apt-get -y install chromium-browser
 sudo apt-get -y install emacs
+sudo apt-get -y install gimp
+sudo apt-get -y install libgimp2.0-dev
+sudo apt-get -y install ffmpeg
